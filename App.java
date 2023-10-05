@@ -26,6 +26,7 @@ public class App {
           */
 
          double num1 = getDouble("Type a number");
+         
          double num2 = getDouble("Type another number");
 
          /*
